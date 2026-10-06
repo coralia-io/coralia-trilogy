@@ -1,0 +1,29 @@
+schema: coralia-nav/v1
+repo: coralia-io/coralia-trilogy
+created: 2026-10-06
+era: published-sequence-and-proofs
+tags:
+  - coralia-sequence
+  - exact-integer
+  - existence
+  - uniqueness
+  - axioms
+  - proofs
+  - reproducibility
+  - mathematical-structure
+  - gap-structure
+  - public-research
+  - zenodo
+read_first:
+  - README.md
+  - SCOPE.md
+  - WHO_THIS_IS_FOR.md
+  - core/papers/
+  - examples/
+literal_revisit:
+  - "The public mathematical object is the 12-element sequence and the proofs/tests that define and reproduce its stated properties."
+  - "Use the core directory for authoritative mathematics; treat sandbox work as exploratory unless promoted by evidence."
+guardrails:
+  - "Do not treat later software, RTL, Metal, or physical-design experiments as part of the proof unless the repository explicitly says so."
+  - "Do not infer unpublished implementation details from public mathematical structure."
+  - "Keep public claims bounded to what the papers, proofs, tests, and reproducible examples establish."

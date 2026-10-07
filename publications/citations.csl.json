@@ -1,0 +1,80 @@
+[
+  {
+    "id": "paper-i",
+    "type": "article",
+    "title": "The Coralia Sequence: A Unique Finite Integer Set Under Fibonacci-Lucas Terminal Constraints",
+    "author": [
+      {
+        "given": "Emma",
+        "family": "Cecile",
+        "ORCID": "https://orcid.org/0009-0008-4120-9309"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.5281/zenodo.18121786",
+    "URL": "https://zenodo.org/records/18121786",
+    "publisher": "Zenodo",
+    "version": "1.1",
+    "note": "Preprint. DOI record title retained; see identity map for PDF title discrepancies."
+  },
+  {
+    "id": "paper-ii",
+    "type": "article",
+    "title": "Why These Axioms? Empirical Content of the Coralia Constraint",
+    "author": [
+      {
+        "given": "Emma",
+        "family": "Cecile",
+        "ORCID": "https://orcid.org/0009-0008-4120-9309"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.5281/zenodo.18150002",
+    "URL": "https://zenodo.org/records/18150002",
+    "publisher": "Zenodo",
+    "version": "1.0",
+    "note": "Preprint. DOI record title retained; see identity map for PDF title discrepancies."
+  },
+  {
+    "id": "paper-iii",
+    "type": "article",
+    "title": "Aperture: The Geometry of Coralia",
+    "author": [
+      {
+        "given": "Emma",
+        "family": "Cecile",
+        "ORCID": "https://orcid.org/0009-0008-4120-9309"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          23
+        ]
+      ]
+    },
+    "DOI": "10.5281/zenodo.18346226",
+    "URL": "https://zenodo.org/records/18346226",
+    "publisher": "Zenodo",
+    "version": "1.0",
+    "note": "Preprint. DOI record title retained; see identity map for PDF title discrepancies."
+  }
+]

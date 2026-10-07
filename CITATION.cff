@@ -1,11 +1,51 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it as below."
+message: This file describes the software repository. Cite each paper separately using the references below, publications/citations.bib,
+  citations.ris, or citations.csl.json.
+type: software
+title: 'Coralia Trilogy: verification code'
 authors:
-  - family-names: "Cecile"
-    given-names: "Emma"
-    orcid: "https://orcid.org/0009-0008-4120-9309"
-title: "The Coralia Sequence"
-version: 1.0.0
-date-released: 2026-01-01
-url: "https://github.com/coralia-io/coralia-sequence"
+- family-names: Cecile
+  given-names: Emma
+  orcid: https://orcid.org/0009-0008-4120-9309
+version: 1.1.0
+date-released: '2026-01-02'
+url: https://github.com/coralia-io/coralia-trilogy
+repository-code: https://github.com/coralia-io/coralia-trilogy
 license: MIT
+references:
+- type: generic
+  title: 'The Coralia Sequence: A Unique Finite Integer Set Under Fibonacci-Lucas Terminal Constraints'
+  authors:
+  - family-names: Cecile
+    given-names: Emma
+    orcid: https://orcid.org/0009-0008-4120-9309
+  doi: 10.5281/zenodo.18121786
+  url: https://zenodo.org/records/18121786
+  year: 2026
+  month: 1
+  version: '1.1'
+  date-published: '2026-01-02'
+- type: generic
+  title: Why These Axioms? Empirical Content of the Coralia Constraint
+  authors:
+  - family-names: Cecile
+    given-names: Emma
+    orcid: https://orcid.org/0009-0008-4120-9309
+  doi: 10.5281/zenodo.18150002
+  url: https://zenodo.org/records/18150002
+  year: 2026
+  month: 1
+  version: '1.0'
+  date-published: '2026-01-05'
+- type: generic
+  title: 'Aperture: The Geometry of Coralia'
+  authors:
+  - family-names: Cecile
+    given-names: Emma
+    orcid: https://orcid.org/0009-0008-4120-9309
+  doi: 10.5281/zenodo.18346226
+  url: https://zenodo.org/records/18346226
+  year: 2026
+  month: 1
+  version: '1.0'
+  date-published: '2026-01-23'

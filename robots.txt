@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coralia-io.github.io/coralia-trilogy/sitemap.xml

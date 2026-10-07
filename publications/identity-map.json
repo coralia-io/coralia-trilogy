@@ -25,8 +25,9 @@
     "copy_url": "https://github.com/coralia-io/coralia-trilogy-systems-copy"
   },
   "website": {
+    "publication_site": "https://coralia-io.github.io/coralia-trilogy/",
     "requested_domain": "https://coralia.systems",
-    "status": "no_public_A_record_observed; website audit blocked"
+    "status": "GitHub_Pages_deployment_in_progress; custom_domain_unresolved"
   },
   "papers": [
     {
@@ -63,7 +64,7 @@
       "id": "paper-ii",
       "record_title": "Why These Axioms? Empirical Content of the Coralia Constraint",
       "pdf_title": "Axioms That Predict What They Don't Mention: Empirical Content of the Coralia Constraints",
-      "title_status": "conflict_requires_approval",
+      "title_status": "canonical_pdf_title_selected; registered_record_update_pending",
       "doi": "10.5281/zenodo.18150002",
       "concept_doi": "10.5281/zenodo.18150001",
       "version": "1.0",
@@ -91,7 +92,8 @@
           "relatedIdentifier": "10.5281/zenodo.18150001",
           "relatedIdentifierType": "DOI"
         }
-      ]
+      ],
+      "canonical_title": "Axioms That Predict What They Don't Mention: Empirical Content of the Coralia Constraints"
     },
     {
       "position": 3,

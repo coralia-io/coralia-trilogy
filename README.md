@@ -65,14 +65,14 @@ See [SCOPE.md](SCOPE.md)
 Three separate publications by **Emma Cecile**, [ORCID 0009-0008-4120-9309](https://orcid.org/0009-0008-4120-9309):
 
 1. **The Coralia Sequence: A Unique Finite Integer Set Under Fibonacci-Lucas Terminal Constraints** (version 1.1, 2026-01-02). [DOI](https://doi.org/10.5281/zenodo.18121786) · [PDF](https://zenodo.org/records/18121786/files/coralia-sequence_math_v1.1.pdf).
-2. **Why These Axioms? Empirical Content of the Coralia Constraint** (version 1.0, 2026-01-05). [DOI](https://doi.org/10.5281/zenodo.18150002) · [PDF](https://zenodo.org/records/18150002/files/Axioms%20That%20Predict%20What%20They%20Don%E2%80%99t%20Mention.pdf).
+2. **Axioms That Predict What They Don't Mention: Empirical Content of the Coralia Constraints** (version 1.0, 2026-01-05). [DOI](https://doi.org/10.5281/zenodo.18150002) · [PDF](https://zenodo.org/records/18150002/files/Axioms%20That%20Predict%20What%20They%20Don%E2%80%99t%20Mention.pdf).
 3. **Aperture: The Geometry of Coralia** (version 1.0, 2026-01-23). [DOI](https://doi.org/10.5281/zenodo.18346226) · [PDF](https://zenodo.org/records/18346226/files/Cecile_2026_Aperture.pdf).
 
 Paper I’s concept DOI, `10.5281/zenodo.18121785`, covers its versions; `10.5281/zenodo.18121786` identifies version 1.1. Both are valid. Paper III’s record also includes copies of the earlier papers; cite each paper with its own DOI.
 
-Paper II’s deposited PDF is titled *Axioms That Predict What They Don't Mention: Empirical Content of the Coralia Constraints*, while its DOI record is titled *Why These Axioms? Empirical Content of the Coralia Constraint*. Both titles are retained in the [identity map](publications/identity-map.json); this discrepancy remains unresolved.
+Paper II’s canonical title follows its deposited PDF. Its DOI record previously used *Why These Axioms? Empirical Content of the Coralia Constraint*; both titles identify DOI `10.5281/zenodo.18150002`. The registered record correction remains pending.
 
-[Publication metadata and citation exports](publications/README.md).
+[Read the papers and complete abstracts](https://coralia-io.github.io/coralia-trilogy/) · [Publication metadata and citation exports](publications/README.md).
 
 ---
 
